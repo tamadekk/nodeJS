@@ -1,0 +1,16 @@
+{
+  "name": "first-task",
+  "version": "1.0.0",
+  "description": "First Task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Vladyslav",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
