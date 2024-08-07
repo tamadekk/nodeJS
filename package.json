@@ -4,10 +4,9 @@
   "description": "First Task",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs"
   },
-  "type": "module",
   "author": "Vladyslav",
   "license": "ISC",
   "devDependencies": {
